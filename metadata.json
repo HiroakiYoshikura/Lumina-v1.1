@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - AI Image Studio v1.1",
+  "description": "A hybrid AI image creation and refinement suite powered by Imagen 4 and Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
